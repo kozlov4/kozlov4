@@ -20,6 +20,8 @@
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white"></a>
+      <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white"></a>
+      <a href="#"><img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white"></a>
   </p>
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
