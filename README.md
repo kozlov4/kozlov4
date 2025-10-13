@@ -34,6 +34,8 @@
     <td><b>💻 Technology</b></td>
     <td><b>🚀 Projects</b></td>
   </tr>
+
+  <!-- UpCity -->
   <tr>
     <td>
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white">
@@ -46,6 +48,8 @@
       </a>
     </td>
   </tr>
+
+  <!-- WatchHub + FunApplication -->
   <tr>
     <td>
       <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
@@ -56,20 +60,13 @@
       <a href="https://github.com/kozlov4/WatchHub">
         <img alt="WatchHub" src="https://img.shields.io/badge/WatchHub-181717.svg?logo=github&logoColor=white">
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
-      <img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white">
-      <img alt="WinForms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white">
-    </td>
-    <td>
       <a href="https://github.com/kozlov4/FunApplication">
         <img alt="FunApplication" src="https://img.shields.io/badge/FunApplication-181717.svg?logo=github&logoColor=white">
       </a>
     </td>
   </tr>
+
+  <!-- E-Pet -->
   <tr>
     <td>
       <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
@@ -83,6 +80,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
