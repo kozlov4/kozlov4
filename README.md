@@ -1,3 +1,93 @@
+<h1 align="left">Hey there, I'm Serge Kozlov 👋</h1>
+
+<p align="left">
+  I'm a <strong>Computer Science student at Kharkiv National University of Radio Electronics (KHNURE)</strong>.  
+  Passionate about <strong>software development</strong> and creating modern, practical applications.  
+  I mainly work with <strong>FastAPI, Android (Java), and web technologies</strong>.  
+  Constantly improving my skills and exploring new tools and technologies 💻
+</p>
+
+
+<p align="left">
+  <a href="https://linkedin.com/in/serge-kozlov" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://t.me/kozlov_4" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white">
+  </a>
+  <a href="mailto:serge.kozlov@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white">
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHMyMjRpdWhtZjhmb3YyYjZ1MGJrNDJncjNqcm82Z2UwdXh3NjN2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46C8ac57dakyVP1u/giphy.gif" width="800" alt="Cool developer gif">
+</p>
+
+---
+
+<h2>📊 GitHub Projects Overview</h2>
+
+<table>
+  <tr>
+    <td><b>💻 Technology</b></td>
+    <td><b>🚀 Projects</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white">
+      <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
+    </td>
+    <td>
+      <a href="https://github.com/kozlov4/UpCity">
+        <img alt="UpCity" src="https://img.shields.io/badge/UpCity-181717.svg?logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+      <img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white">
+      <img alt="WinForms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white">
+    </td>
+    <td>
+      <a href="https://github.com/kozlov4/WatchHub">
+        <img alt="WatchHub" src="https://img.shields.io/badge/WatchHub-181717.svg?logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+      <img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white">
+      <img alt="WinForms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white">
+    </td>
+    <td>
+      <a href="https://github.com/kozlov4/FunApplication">
+        <img alt="FunApplication" src="https://img.shields.io/badge/FunApplication-181717.svg?logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white">
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white">
+    </td>
+    <td>
+      <a href="https://github.com/kozlov4/ePet">
+        <img alt="E-Pet" src="https://img.shields.io/badge/E--Pet-181717.svg?logo=github&logoColor=white">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+---
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
