@@ -137,6 +137,7 @@
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
   <a href="#"><img alt="Linux Manjaro" src="https://img.shields.io/badge/Linux%20Manjaro-34BE5B.svg?logo=manjaro&logoColor=white"></a>
   <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white"></a>
+  <a href="#"><img alt="Thunderbird" src="https://img.shields.io/badge/Thunderbird-0A84FF.svg?logo=thunderbird&logoColor=white"></a>
 </p>
 
 </details>
