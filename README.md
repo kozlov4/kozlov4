@@ -9,7 +9,7 @@
 
 
 <p align="left">
-  <a href="https://linkedin.com/in/serge-kozlov" target="_blank">
+  <a href="www.linkedin.com/in/serge-kozlov-dev" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
   </a>
   <a href="https://t.me/kozlov_4" target="_blank">
