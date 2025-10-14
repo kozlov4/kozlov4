@@ -110,6 +110,7 @@
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
       <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white"></a>
       <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white"></a>
+      <a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?logo=sqlalchemy&logoColor=white"></a>
       <a href="#"><img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white"></a>
   </p>
 
