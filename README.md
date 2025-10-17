@@ -103,16 +103,18 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Frameworks and Libraries</h3>
 
-  <p>
-      <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white"></a>
-      <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white"></a>
-      <a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?logo=sqlalchemy&logoColor=white"></a>
-      <a href="#"><img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white"></a>
-  </p>
+<p>
+  <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%208-512BD4.svg?logo=dotnet&logoColor=white"></a>
+  <a href="#"><img alt="SQLAlchemy" src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?logo=sqlalchemy&logoColor=white"></a>
+  <a href="#"><img alt="Windows Forms" src="https://img.shields.io/badge/Windows%20Forms-0078D6.svg?logo=windows&logoColor=white"></a>
+</p>
+
 
 <h3>🗄️ Databases and Cloud Hosting</h3>
 
