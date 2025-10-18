@@ -36,7 +36,7 @@
     <td><b>🚀 Projects</b></td>
   </tr>
 
-  <!-- UpCity -->
+
   <tr>
     <td>
       <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white">
