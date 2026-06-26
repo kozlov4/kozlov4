@@ -13,9 +13,3 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
-<h2>📊 GitHub Projects Overview</h2>
-
-<br>
