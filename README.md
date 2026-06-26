@@ -18,37 +18,4 @@
 
 <h2>📊 GitHub Projects Overview</h2>
 
-<table>
-  <tr>
-    <td align="center"><b>💻 Technology</b></td>
-    <td align="center"><b>🚀 Projects</b></td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white">
-      <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-      <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
-    </td>
-    <td align="center">
-      <a href="https://github.com/kozlov4/UpCity">
-        <img alt="UpCity" src="https://img.shields.io/badge/UpCity-181717.svg?logo=github&logoColor=white">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-109989.svg?logo=fastapi&logoColor=white">
-      <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-      <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white">
-    </td>
-    <td align="center">
-      <a href="https://github.com/kozlov4/ePet">
-        <img alt="E-Pet" src="https://img.shields.io/badge/E--Pet-181717.svg?logo=github&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br>
